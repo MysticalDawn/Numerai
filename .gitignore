@@ -50,3 +50,6 @@ Thumbs.db
 # *.pkl
 # *.h5
 # *.pt
+
+/data
+/v5.2
